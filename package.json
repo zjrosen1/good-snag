@@ -1,6 +1,6 @@
 {
   "name": "good-snag",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": "git://github.com/zjrosen1/good-snag",
   "description": "Bugsnag broadcasting for Good process monitor",
   "main": "lib/index.js",
